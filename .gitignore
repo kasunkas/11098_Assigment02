@@ -1,0 +1,39 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+build_log.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Heap dumps
+*.hprof
+
+# Android Studio / IntelliJ specific
+/captures/
+.externalNativeBuild
+.cxx/
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+
+# Device-specific data
+/device-explorer/
